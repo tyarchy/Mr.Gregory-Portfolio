@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {}
+
+article {
+    display: inline-table;
+    width: 30vw;
+    height: 53vh;
+    
+    
+
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 140px;
+    margin: 0;
+    text-align: center;
+}
+
+header h2 {
+    font-weight: bold;
+    font-size: 80px;
+    margin: 0;
+    text-align: center;
+}
+
+header img {
+    margin-right: 150px;
+    float: right;
+    background-color: aqua;
+    border: 5px solid rgb(255, 255, 255);
+
+}
+
+.top {
+    color: #d33519;
+    background-color: aqua;
+}
+
+.intro {
+    background-color: aqua;
+
+}
+
+nav ul li {
+    font-size: 30px;
+    background-color: aqua;
+    margin-left: 50px;
+    display: inline-block
+}
+
+.code {
+    background-color: aqua;
+    margin-top: 50px;
+    border: 10px solid rgb(255, 255, 255);
+    padding: 50px
+}
+
+.code h2 { 
+    font-size: 40px;
+    color: brown;
+}
+
+
+.code p{
+    font-size: 20px;
+    color: brown;
+}
+
+.contact {
+    max-width: 150px;
+    float:right;
+   
+    
+}
+
+.contact img{
+   margin-left: 148px;
+   margin-top: 240px; 
+   border:5px solid
+    
+}
+
+body {
+    background: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png)
+}
