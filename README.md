@@ -2,6 +2,10 @@
 
 ## Description
 ### Mr.Gregory-Portfolio is a website with some links to projects I have worked and some future projects.  It also has my github, contact info, and shortsection on some things I am interested in.
+
+## Github Repo: https://github.com/tyarchy/mr.gregory-portfolio
+
+![Screenshot (182)](https://user-images.githubusercontent.com/92496520/170152247-88777659-df79-4145-b63c-22eaba155eef.png)
   
 ## Table of Contents
 1. [Applications](#Features)
