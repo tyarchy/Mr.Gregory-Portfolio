@@ -18,7 +18,7 @@
 
 
 ## Usage and Applications
-### This website is merely a glimpse into the force of nature that Mr. Gregory can be. nothing
+### This website is merely a glimpse into the force of nature that Mr. Gregory is.
 
 <p>&nbsp;</p>  
 
